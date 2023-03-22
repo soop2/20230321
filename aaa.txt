@@ -1,3 +1,4 @@
 new file
 
 # 실습중...1 
+# 실습중...2 (README 수정 후 commit 하고 있는 중)
